@@ -53,6 +53,7 @@ public class HappyChuseok extends JFrame {
 		contentPane.add(la);
 		//panel.setBackground(Color.yellow);
 		
+		
 		//contentPane.add(panel);
 		
 
